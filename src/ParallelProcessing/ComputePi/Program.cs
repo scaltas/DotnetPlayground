@@ -1,7 +1,7 @@
 ﻿using System.Collections.Concurrent;
 using System.Diagnostics;
 
-const int NumberOfSteps = 1_000_000_000;
+const int NumberOfSteps = 100_000_000;
 
 Console.WriteLine("Function               | Elapsed Time     | Estimated Pi");
 Console.WriteLine("-----------------------------------------------------------------");
